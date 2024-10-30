@@ -3,7 +3,7 @@
 - 🔭 Hoje estudo Sistemas de Informção
 - 🌱Aprendendo mais sobre Python
 - 😄 Pronomes: ela/dela
-- 👟 Fun Fact:Faço corridas de rua e durante as provas, costumo imaginar cada quilômetro como uma linha de código, buscando sempre melhorar meu desempenho, assim como otimizo meus algoritmos. 
+- 👟 Fun Fact:Faço corridas de rua. 
 
 
 
